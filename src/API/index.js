@@ -16,9 +16,3 @@ export const getCurrency = async (currName) => {
 
   return result;
 };
-
-const LetterCode = {
-  UAH: "₴",
-  USD: "$",
-  EUR: "€",
-};
